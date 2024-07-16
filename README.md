@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehajanani23" alt="rehajanani23" /></a> </p>
 
-- 🌱 I’m currently learning **fullstack development** and iam interested in learning it and UI&UX Design
+- 🌱 I’m currently learning **fullstack development** and iam interested in learning UI&UX Design
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
