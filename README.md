@@ -4,11 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Janani</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">I'm a passionate Python developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehajanani23" alt="rehajanani23" /></a> </p>
 
-- 🌱 I’m currently learning **full-stack development**, and I am interested in **Python** and **UI & UX Design**.
+- 🌱 Interested in Python , SQL**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
