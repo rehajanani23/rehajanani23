@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehajanani23" alt="rehajanani23" /></a> </p>
 
-- 🌱 Interested in Python , SQL**.
+- 🌱 Interested in** Python , SQL , MERN Stack, UI/UX**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
